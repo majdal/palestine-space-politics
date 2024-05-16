@@ -5,11 +5,13 @@ widget: contact
 
 # This file represents a page section.
 headless: true
+# active: false
+# draft: true
 
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
+title: 'Contact'
 subtitle:
 
 content:
