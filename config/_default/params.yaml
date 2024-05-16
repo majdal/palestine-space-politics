@@ -8,18 +8,18 @@
 appearance:
   theme_day: custom
   theme_night: custom
-  font: minimal
+  font: plex
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Project
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Palestine: space and politics // a curriculum by Arab Urbanism'
+    description: 'a curriculum by Arab Urbanism from a spatial perspective at all scales. '
+    twitter: 'araburbanism'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,18 +43,18 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Arab Urbanism. All content is licensed under Creative Commons attribution license ({license})'
     license:
       enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+      allow_derivatives: true
+      share_alike: false
+      allow_commercial: true
 
 # Localization
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 
@@ -79,7 +79,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
