@@ -33,4 +33,4 @@ The first themes of the PSP Introductory Curriculum are:
     
 PSP is a collective of geographers, architects, and urban planners committed to the study of Palestine in relation to regional and global contexts. It is an offshoot of the [Arab Urbanism](https://www.araburbanism.com) platform. PSP emerges from conversations among scholars whose lifeworlds have been variously impacted by the colonization and occupation of their land, the destruction of their cities and villages, and displacement from their countries. 
 
-We are Dena Qaddumi (coordinator), Nadi Abusaada, Majd Al-Shihabi, Ammar Azzouz, Samia Henni, Lana Judeh, Faiq Mari, Aya Nassar, and Omar Jabary Salamanca.
+We are [Dena Qaddumi](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (coordinator), Nadi Abusaada, [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), Samia Henni, [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://warwick.ac.uk/fac/soc/pais/people/nassar/), and Omar Jabary Salamanca.
