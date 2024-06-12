@@ -2,6 +2,9 @@
 # This file represents a page section.
 headless: true
 
+title: 'Palestine: Spaces and Politics'
+subtitle: Introductory Curriculum 
+
 # Order that this section will appear in.
 weight: 10
 
@@ -15,7 +18,4 @@ author: admin
 #  css_class: fullscreen
 ---
 
-# Palestine: Spaces and Politics
-
 ~~ intro text ~~
-
