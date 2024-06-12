@@ -18,8 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-# Palestine: Spaces and Politics
-
 Palestine: Spaces and Politics (PSP) is an open-access project that offers resources for education and research on Palestine’s built and natural environments through a critical lens. This initiative is a response to the growing demand for grounded academic resources on Palestine that offer depth and context beyond immediate colonial destruction. 
 
 The PSP Introductory Curriculum positions Palestine as a complex space inhabited by people who are producers of its own knowledge, rather than a mere object on which perpetual violence is inflicted. We situate Palestine as a conceptual site to reconsider core ideas in the fields of architecture, geography, urbanism, and planning. Particularly, by foregrounding Palestinian voices and perspectives, PSP presents substantive and vivid understandings of Palestine’s past, present, and potential futures. Ultimately, we consider Palestine as imperative for analyzing the critical intersections of spaces and politics at large. 
