@@ -29,10 +29,11 @@ tags:
 4. تماري، سليم.2012. أم الغريب: تخطيط المدن وتطور الحيِّز العام في فلسطين العثمانية. حوليات القدس. 13. 26-46. ([مصدر مفتوح الوصول](https://store.palestine-studies.org/sites/default/files/hq-articles/11464.pdf)) //// **ENGLISH VERSION**
 Tamari, Salim. 2017. “The Sweet Aroma of Holy Sewage: Urban Planning and the New Public Space in Palestine.” In The Great War and the Remaking of Palestine. Berkeley, CA: University of California Press, 38-66. ([link](https://www.ucpress.edu/book/9780520291263/the-great-war-and-the-remaking-of-palestine)) 
 
+----------------------
 
 ## مراجع أخرى
 
-*Please contact us if you would like access to any resources.*
+*الرجاء التواصل معنا للوصول لأي من المصادر التالية.*
 
 1. Abusalim, Jehad. 2018. “The Great March of Return: An Organizer’s Perspective.” Journal of Palestine Studies 47 (4): 90–100. ([link](https://www.tandfonline.com/doi/abs/10.1525/jps.2018.47.4.90))
 2. Alım, Eray. 2020. “The Art of Resistance in the Palestinian Struggle Against Israel.” Turkish Journal of Middle Eastern Studies 7 (1): 45–79. ([open-access link](https://dergipark.org.tr/tr/download/article-file/1112140))
