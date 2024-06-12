@@ -18,9 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-<<<<<<< HEAD
-~~ intro text ~~
-=======
 # Palestine: Spaces and Politics
 
 Palestine: Spaces and Politics (PSP) is an open-access project that offers resources for education and research on Palestine’s built and natural environments through a critical lens. This initiative is a response to the growing demand for grounded academic resources on Palestine that offer depth and context beyond immediate colonial destruction. 
@@ -40,4 +37,3 @@ The first themes of the PSP Introductory Curriculum are:
 PSP is a collective of geographers, architects, and urban planners committed to the study of Palestine in relation to regional and global contexts. It is an offshoot of the [Arab Urbanism](https://www.araburbanism.com) platform. PSP emerges from conversations among scholars whose lifeworlds have been variously impacted by the colonization and occupation of their land, the destruction of their cities and villages, and displacement from their countries. 
 
 We are [Dena Qaddumi](https://www.lse.ac.uk/sociology/people/Dena-Qaddumi) (coordinator), Nadi Abusaada, [Majd Al-Shihabi](https://majdal.cc), [Ammar Azzouz](https://www.geog.ox.ac.uk/staff/aazzouz.html), Samia Henni, [Lana Judeh](https://birzeit.academia.edu/LanaJudeh), Faiq Mari, [Aya Nassar](https://warwick.ac.uk/fac/soc/pais/people/nassar/), and Omar Jabary Salamanca.
->>>>>>> 880f942a289359e0ed48822932fdc05bd02c4d1b
