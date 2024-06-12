@@ -5,6 +5,7 @@ tags:
   - future
 # date: 2022-01-01
 # external_link: http://github.com
+draft: true
 ---
 
 After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities.

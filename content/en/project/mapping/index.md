@@ -5,6 +5,7 @@ tags:
   - maps
 # date: 2022-01-01
 # external_link: http://github.com
+draft: true
 ---
 Maps are central to the spatiality of Palestine, where practices of mapping and erasure are entangled in relations of power, of demarcating, naming, renaming, and representing space, as well as the creative remaking and reimagination of place and space. Due to its centrality in global narratives, Palestine has become one of the most surveyed places on earth, and yet data accessibility is very uneven, as gatekeeping becomes a security practice. Spatial data in the region is particularly contested, as Israel uses it to further state projects of spatial expansion, colonial dispossession, and apartheid, and Palestinians engage in counter-mapping as a form of asserting claims to the territory of Palestine, mediated through memory, nationalisms, and contested visions for the future. To consider practices of mapping and counter-mapping is to interrogate the cartographical archive we inherit and use, its conditions of making, accessand obliteration, it is also to interrogate the techno-scientific, practical and imaginative practices involved in these contested processes. 
 

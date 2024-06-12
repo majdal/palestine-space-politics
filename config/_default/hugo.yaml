@@ -19,6 +19,12 @@ cascade:
     commentable: true
     show_related: true
     show_breadcrumb: true
+  - _target:
+      path: /project/**
+    share: false
+    commentable: false
+    show_date: false
+
 
 ############################
 ## LANGUAGE
