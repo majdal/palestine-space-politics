@@ -1,40 +1,42 @@
 ---
-title: "Mapping and Counter-mapping"
-# summary: Write about your project here...
+title: "الخرائطيّة والخرائطيّة المضادة"
 tags:
-  - maps
-  - cartography
+  - خرائط
+
 ---
-Maps are central to the spatiality of Palestine, where practices of mapping and erasure are entangled in relations of power, of demarcating, naming, renaming, and representing space, as well as the creative remaking and reimagination of place and space. Due to its centrality in global narratives, Palestine has become one of the most surveyed places on earth, and yet data accessibility is very uneven, as gatekeeping becomes a security practice. Spatial data in the region is particularly contested, as Israel uses it to further state projects of spatial expansion, colonial dispossession, and apartheid, and Palestinians engage in counter-mapping as a form of asserting claims to the territory of Palestine, mediated through memory, nationalisms, and contested visions for the future. To consider practices of mapping and counter-mapping is to interrogate the cartographical archive we inherit and use, its conditions of making, accessand obliteration, it is also to interrogate the techno-scientific, practical and imaginative practices involved in these contested processes. 
 
-# Key questions 
-- What are the mapping traditions from within the“Middle East”? How are mapping practices implicated in colonialism? How are different counter-mapping practices used in Palestine? 
-- How have Palestinians used maps to assert claims on historic Palestine?
-- How are maps used in the formation of a national Palestinian narratives?
-- What do the different circulating maps of Palestine tell us about the colonial history of the region, and about possible futures?
-- Who owns spatial data about Palestine, and what duties towards the public interest does data ownership entail?
+يعد فهم الخرائط محورياً في فهم الفضاء الفلسطيني، حيث لا تنفصل ممارسات رسم ومحو المكان على الخرائط بعلاقات القوة التي تتحكم في ترسيم، وتسمية وإعادة تسمية الفضاء الفلسطيني، بل في تمثيله وربما إعادة تخيله. ولأن فلسطين تقع في قلب التخيلات العالمية، أصبحت للمفارقة من أكثر الأماكن التي تم رسمها ومسحها جغرافياً، وتكمن المفارقة أن هذه البيانات والمعلومات الخرائطية قلما تكون متاحة للجميع بشكلٍ متساوٍ، بل تصبح موضع الهواجس الأمنية التي تقوم بحظر الوصول اليها. بالتالي تعد هذه البيانات الجغرافية الخاصة بالمنطقة موضع تنازع، حيث تستخدمها إسرائيل في مشاريعها الاستيطانية والتوسعية للفصل العنصري والاستحواذ على الأرض بينما يقوم الفلسطينيون بممارسات خرائطية مضادة تؤكد على الحق في أرض فلسطين، من خلال تخيل الذاكرة، والقومية، والتطلعات المختلفة للمستقبل. يتطلب فهم الخرائطية والخرائطية المضادة إذاً من ناحية التفكير النقدي في ميراث الأرشيف الجغرافي الذي نستخدمه، وظروف بنائه، واستخدامه وإتاحته، ومحوه، كما يتضمن أيضاً استجواب الممارسات التقنية، والإجرائية لصنع واستخدام الخرائط، و الممارسات الإبداعية والتخيلية التي تعيد توظيفها.
 
-## Key Cases
 
-- Palestine Open Maps ([web](https://palopenmaps.org/en))
-- Return Journey/Atlas of Palestine (Palestine Land Society [webpage](https://www.plands.org/en/home))
-- Arab Centre for Alternative Planning ([web](https://www.ac-ap.org/en/))
-- Grassroots Jerusalem ([web](https://www.grassrootsalquds.net/))
-- Applied Research Institute – Jerusalem (ARIJ) ([web](https://www.arij.org/books-atlases/))
+## أسئلة رئيسية
 
-# Key References 
+- ما هي تقاليد الخرائطية المتوارثة في منطقتنا؟ وكيف ترتبط ممارسات الاختطاط بالكولونيالية والاستيطان؟  وفي المقابل كيف يتم استخدام الخرائط المضادة في السياق الفلسطيني؟
+-  كيف يتم استخدام الخرائط في السرديات الوطنية الفلسطينية؟
+-  ما الذي تمثله الخرائط المختلفة المتداولة لفلسطين؟ وما الذي تشي عنه بالنسبة لتاريخ استعمار المنطقة من ناحية، وإمكانية تخيل مستقبلات بديلة من ناحية أخرى؟
+-  من يمتلك البيانات والمعلومات المتعلقة بفلسطين؟ وما هي الواجبات المتعلقة بهذه الملكية تجاه الصالح العام؟
+
+
+## أمثلة رئيسيّة
+
+- خرائط فلسطين المفتوحة ([web](https://palopenmaps.org/en))
+- هيئة أرض فلسطين: أطلس فلسطين/أطلس طريق العودة ([web](https://www.plands.org/ar/home))
+- المركز العربي للتخطيط البديل ([web](https://www.ac-ap.org/en/))
+- الجذور الشعبية المقدسية ([web](https://www.grassrootsalquds.net/))
+- معهد الأبحاث التطبيقية- القدس (أريج) ([web](https://www.arij.org/books-atlases/)) 
+
+
+## مراجع رئيسية
+
 1. Agha, Zena. 2020. Maps, Technology, & Decolonial Spatial Practices in Palestine | Al-Shabaka . Available at: [https://al-shabaka.org/briefs/maps-technology-and-decolonial-spatial-practices-in-palestine/](https://al-shabaka.org/briefs/maps-technology-and-decolonial-spatial-practices-in-palestine/) [OPEN ACCESS]
 2. Bier, Jess. 2017. Palestinian State Maps and Imperial Technologies of Staying Put. Public Culture; 29 (1 (81)): 53–78. doi: [https://doi.org/10.1215/08992363-3644397](https://doi.org/10.1215/08992363-3644397) [[Open Access PDF](https://jessbier.org/wp-content/uploads/2016/02/public-culture-2017-bier-53-78.pdf)]
 3. Al-Shihabi, Majd & Tahir, Madiha . 2019, December 16. Which Digital Instruments for the Revolution? THE FUNAMBULIST MAGAZINE, 27. [https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi](https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi) [Open Access]
-4. Anani, Yazid. 2020, “The Potter, the Poet, and Storytelling: Palestine from Above 2” _Jerusalem Quarterly_, Issue 82, Summer 2020 [https://www.palestine-studies.org/en/node/1650280](https://www.palestine-studies.org/en/node/1650280)   [Open Access]بالعربيّة: الخزّاف، الشاعر، وسرد الحكاي: https://www.palestine-studies.org/ar/node/1650280
+4. Anani, Yazid. 2020, “The Potter, the Poet, and Storytelling: Palestine from Above 2” _Jerusalem Quarterly_, Issue 82, Summer 2020 [https://www.palestine-studies.org/en/node/1650280](https://www.palestine-studies.org/en/node/1650280)   [Open Access]بالعربيّة: الخزّاف، الشاعر، وسرد الحكاي: https://www.palestine-studies.org/ar/node/1650280 
 
 
 ----------------------
 
-## Further Readings
 
-*Please contact us if you would like access to any resources.*
-
+## مراجع أخرى
 
 1. Abusaada, Nadi. 2020. Combined Action: Aerial Imagery and the Urban Landscape in Interwar Palestine, 1918-40. [https://www.palestine-studies.org/en/node/1650011](https://www.palestine-studies.org/en/node/1650011) //// **بالعربيّة****:** عمل مشترك: التصوير الجوّيّ والمشهد الحضريّ في فلسطين بين الحربين العالميتين، 1918—1940  [https://www.palestine-studies.org/ar/node/1650011](https://www.palestine-studies.org/ar/node/1650011) 
 2. Abushama, Hashem. 2024. a map without guarantees: Stuart Hall and Palestinian geographies. The Stuart Hall Essay Prize. ([link](https://www.stuarthallfoundation.org/resource/a-map-without-guarantees-stuart-hall-and-palestinian-geographies/))
@@ -53,7 +55,7 @@ Maps are central to the spatiality of Palestine, where practices of mapping and 
 14. Sleiman, Hana & Abusaada, Nadi. (2023). A Geography of the Future. \[Review of] Atlas of Palestine 1871-1877 by Salman Abu Sitta, London: Palestine Land Society, 2020, 602 pp., ISBN: 978-0-95490-345-9 (hardback). _Palestine Exploration Quarterly_, _155_(2), 177-182. [https://doi.org/10.1080/00310328.2023.2201077](https://doi.org/10.1080/00310328.2023.2201077)
 
 
-## Audiovisual Material
+## مواد سمعية وبصرية
 
 1. Interactive website: Palestine Open Maps .2018. ([PalOpenMaps.org](https://palopenmaps.org/))
 2. Recorded seminar: ‘Digital Forays: Space & Place I: Critical Mapping & Counter-Cartography | YouTube’ .2021.. ([https://youtu.be/xMYK1Snr8DY](https://youtu.be/xMYK1Snr8DY)) 
