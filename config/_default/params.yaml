@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '2006-01-02'
   time_format: '15:04'
 
 # Site features
@@ -69,7 +69,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/majdal/palestine-space-politics'
     content_dir: content
     branch: main
   avatar:
@@ -100,17 +100,18 @@ features:
     zoom: 15
 
 extensions:
-  cms:
-    branch: main
-    local_backend: false
+  # cms:
+  #   branch: main
+  #   local_backend: false
   academicons:
     enable: false
   decap_cms:
+    # local_backend: true
+    publish_mode: editorial_workflow
     branch: main
     i18n:
       structure: multiple_folders
       locales: [en, ar]
-      # local_backend: true
       # Optional, defaults to the first item in locales.
       # The locale to be used for fields validation and as a baseline for the entry.
       # default_locale: en
