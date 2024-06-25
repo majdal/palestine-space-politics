@@ -1,30 +1,30 @@
 ---
-title: 'Palestine Futures: Spaces and Imaginations'
-# summary: Write about your project here...
+title: "مستقبل فلسطين المتعدد: الفضاءات والمُخَيِّلَات"
 tags:
-  - futures
-  - forecasting
-  - backcasting
+  - مستقبل
+
 ---
 
-After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Palestinian political project of territorial liberation and political emancipation. Radical politics and social imaginaries were replaced with a relentless integration into global neoliberalism. Simultaneously, the two-state solution was declared dead multiple times, and Palestinian calls for a one-state solution were revived. But as climate change looms over the region, the future looks more precarious than ever, prompting a search for futures that assert the position of Palestine in relation to its regional context. Meanwhile, a rich preoccupation with alternative futurities abound: from speculative fiction and artwork, to endeavours of archiving and imagining a decolonial future beyond the violence of settler colonialism, to questions of social reproduction and embodied futurities.
+شهدت التسعينيات، بعد توقيع اتفاقية أوسلو، تجريف مستمر لمشروع التحرر الفلسطيني، حيث تم إحلال المخيلات الاجتماعية والسياسة الراديكالية بخطوات الاندماج المستمر في المشروع النيوليبرالي العالمي. وشهدت هذه الثناء إعلانات الوفاة المتكررة لمشروع الدولتان، مما أعاد إحياء الدعوة الفلسطينية لحل الدولة الواحدة. في ظل هذا السياق، وفي حين يلوح نذير التغير المناخي في المنطقة، يصبح سؤال المستقبل أكثر هشاشة من أي وقت مضى، وأكثر إلحاحا في ذات الوقت. يدفعنا هاجس المستقبل للبحث عن مستقبل فلسطين في سياقها الإقليمي. كما يدفعنا للاشتباك مع التراكم ثرى لمحاولات تخيل المستقبلات البديلة والممكنة، سواءً في شكل الأعمال الفنية والروايات التخيلية المستقبلية، أو محاولات الأرشفة الموجهة لمستقبل غير كولونيالي ومحرر من العنف الاستيطاني، أو حتى أسئلة إعادة الإنتاج الاجتماعي والجسدي. 
 
-## Key Questions
-- How are Palestinians imagining and planning for alternative futures for Palestine? 
-- How desirable are such futures, given the fragmentation of the Palestinian people? 
-- What are the social, political, and economic formations that those futures (re)produce? 
-- How do we forge pathways for reaching the desired futures of Palestine? 
+## أسئلة رئيسية
+
+- كيف يقوم الفلسطينيون بتخيل وتخطيط مستقبلات بديلة لوطنهم؟
+- إلى أي مدى تعد تلك المستقبلات البديلة مرغوبة، في سياق تعدد التجارب الفلسطينية؟
+- كيف تقوم تلك المخيلات بإعادة انتاج بنى اجتماعية وسياسية واقتصادية؟
+- كيف يمكننا رسم طريق لمستقبلات فلسطين المرغوبة؟
 
 
-## Key Cases
-- Larissa Sansour’s trilogy: a Space Exodus (2008), Nation Estate (2012), and In the future they ate from the finest Porcelain (2015) all available via Kanopy. 
-- Palestine Land Society architectural competitions ([web](https://www.plands.org/en/competition-news))
-- One Democratic State movement ([web](https://onedemocraticstate.com))
+## أمثلة رئيسيّة
+
+- ثلاثية لاريسا صنصور A Space Exodus (2008), Nation Estate (2012), and In the future they ate from the finest Porcelain (2015)
+- مسابقات هيئة أرض فلسطين المعمارية ([web](https://www.plands.org/en/competition-news))
+- حملة الدولة الديموقراطية الواحدة ([web](https://onedemocraticstate.com))
 - Palestine + 100 ([web](https://commapress.co.uk/books/palestine-100/))
-- The Palestine Heirloom Seed Library (PHSL) ([web](https://viviensansour.com/Palestine-Heirloom)) 
+- بذور البلدية الفلسطينية ([web](https://viviensansour.com/Palestine-Heirloom)) 
 
+## مراجع رئيسية
 
-## Key References 
 
 1. Farsakh, Leila. 2021. Introduction: The Struggle for Self-Determination and the Palestinian Quest for Statehood. In: Farsakh, L (ed.), _Rethinking Statehood in Palestine_. California: University of California Press. Open access ([link](https://doi.org/10.1525/luminos.113.a))
 2. Hassouna, Silvia. 2023. Cultivating biodiverse futures at the (postcolonial) botanical garden. Transactions of the Institute of British Geographers, ([link](https://doi.org/10.1111/tran.12639))
@@ -34,9 +34,8 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 
 ----------------------
 
-## Further Readings
 
-*Please contact us if you would like access to any resources.*
+## مراجع أخرى
 
 1. Abu El-Haj, Nadia. 2001. _Facts on the Ground: Archaeological Practice and Territorial Self-Fashioning in Israeli Society_. Chicago: University of Chicago Press. ([Worldcat](https://search.worldcat.org/title/Facts-on-the-ground-:-archaeological-practice-and-territorial-self-fashioning-in-Israeli-society/oclc/47666593))
 2. Abu Sitta, Salman. 2007. _The Return Journey_. Palestine Land society ([worldcat](https://search.worldcat.org/title/173205494))
@@ -52,9 +51,10 @@ After the signing of the Oslo Accords, the 1990s saw a steady erosion of a Pales
 12. Tawil-Souri, Hilga. 2022. Speculation on infrastructural ecology: Pigeons, Gaza, and internet access. Environment and Planning D: Society and Space, 40(6), 1064-1081. ([link](https://journals.sagepub.com/doi/abs/10.1177/02637758221139857#:~:text=As%20a%20prototype%2C%20it%20is,WiFi%20and%20do%2Dit%2Dyourself))
 13. Sharif, Yara. 2017. Architecture of Resistance: Cultivating Moments of Possibility within the Palestinian/Israeli Conflict, Taylor and Francis. ([web](https://ribabooks.com/Architecture-of-Resistance-Cultivating-Moments-of-Possibility-within-the-PalestinianIsraeli-Conflict_9781472447883))
 14. Stoler, Ann. L. 2022. Archiving Praxis: For Palestine and Beyond. Critical Inquiry, 48(3), 570-593. ([link](https://doi.org/10.1086/718625))
-15. Streit Krug, Aubrey, and Omar Imseeh Tesdell. 2021. "A social perennial vision: Transdisciplinary inquiry for the future of diverse, perennial grain agriculture." Plants, People, Planet 3, no. 4: 355-362. [[Open Access](https://doi.org/10.1002/ppp3.10175)]
+15. Streit Krug, Aubrey, and Omar Imseeh Tesdell. 2021. "A social perennial vision: Transdisciplinary inquiry for the future of diverse, perennial grain agriculture." Plants, People, Planet 3, no. 4: 355-362. [[Open Access](https://doi.org/10.1002/ppp3.10175)] 
 
-## Audiovisual Material
+
+## مواد سمعية وبصرية
 
 - Film/Artwork: Joumana Manaa’, Wild relatives. 2018. [https://www.jumanamanna.com/Wild-Relatives](https://www.jumanamanna.com/Wild-Relatives) 
 - Film/Artwork: Larissa Sansour’s artwork ([https://larissasansour.com/](https://larissasansour.com/))

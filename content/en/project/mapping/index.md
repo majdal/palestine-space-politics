@@ -7,7 +7,7 @@ tags:
 ---
 Maps are central to the spatiality of Palestine, where practices of mapping and erasure are entangled in relations of power, of demarcating, naming, renaming, and representing space, as well as the creative remaking and reimagination of place and space. Due to its centrality in global narratives, Palestine has become one of the most surveyed places on earth, and yet data accessibility is very uneven, as gatekeeping becomes a security practice. Spatial data in the region is particularly contested, as Israel uses it to further state projects of spatial expansion, colonial dispossession, and apartheid, and Palestinians engage in counter-mapping as a form of asserting claims to the territory of Palestine, mediated through memory, nationalisms, and contested visions for the future. To consider practices of mapping and counter-mapping is to interrogate the cartographical archive we inherit and use, its conditions of making, accessand obliteration, it is also to interrogate the techno-scientific, practical and imaginative practices involved in these contested processes. 
 
-# Key questions 
+## Key questions 
 - What are the mapping traditions from within the“Middle East”? How are mapping practices implicated in colonialism? How are different counter-mapping practices used in Palestine? 
 - How have Palestinians used maps to assert claims on historic Palestine?
 - How are maps used in the formation of a national Palestinian narratives?
@@ -22,7 +22,7 @@ Maps are central to the spatiality of Palestine, where practices of mapping and 
 - Grassroots Jerusalem ([web](https://www.grassrootsalquds.net/))
 - Applied Research Institute – Jerusalem (ARIJ) ([web](https://www.arij.org/books-atlases/))
 
-# Key References 
+## Key References 
 1. Agha, Zena. 2020. Maps, Technology, & Decolonial Spatial Practices in Palestine | Al-Shabaka . Available at: [https://al-shabaka.org/briefs/maps-technology-and-decolonial-spatial-practices-in-palestine/](https://al-shabaka.org/briefs/maps-technology-and-decolonial-spatial-practices-in-palestine/) [OPEN ACCESS]
 2. Bier, Jess. 2017. Palestinian State Maps and Imperial Technologies of Staying Put. Public Culture; 29 (1 (81)): 53–78. doi: [https://doi.org/10.1215/08992363-3644397](https://doi.org/10.1215/08992363-3644397) [[Open Access PDF](https://jessbier.org/wp-content/uploads/2016/02/public-culture-2017-bier-53-78.pdf)]
 3. Al-Shihabi, Majd & Tahir, Madiha . 2019, December 16. Which Digital Instruments for the Revolution? THE FUNAMBULIST MAGAZINE, 27. [https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi](https://thefunambulist.net/magazine/27-learning-with-palestine/which-digital-instruments-for-the-revolution-madiha-tahir-majd-al-shihabi) [Open Access]
@@ -34,7 +34,6 @@ Maps are central to the spatiality of Palestine, where practices of mapping and 
 ## Further Readings
 
 *Please contact us if you would like access to any resources.*
-
 
 1. Abusaada, Nadi. 2020. Combined Action: Aerial Imagery and the Urban Landscape in Interwar Palestine, 1918-40. [https://www.palestine-studies.org/en/node/1650011](https://www.palestine-studies.org/en/node/1650011) //// **بالعربيّة****:** عمل مشترك: التصوير الجوّيّ والمشهد الحضريّ في فلسطين بين الحربين العالميتين، 1918—1940  [https://www.palestine-studies.org/ar/node/1650011](https://www.palestine-studies.org/ar/node/1650011) 
 2. Abushama, Hashem. 2024. a map without guarantees: Stuart Hall and Palestinian geographies. The Stuart Hall Essay Prize. ([link](https://www.stuarthallfoundation.org/resource/a-map-without-guarantees-stuart-hall-and-palestinian-geographies/))
